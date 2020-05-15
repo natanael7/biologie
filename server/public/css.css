@@ -1,0 +1,16 @@
+div.dataTables_wrapper {
+  width: 800px;
+  margin: 0 auto;
+}
+.center {
+  padding-left: 10%;
+}
+.green {
+  color: green;
+}
+.red {
+  color: red;
+}
+.blue {
+  color: blue;
+}
